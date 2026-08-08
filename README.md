@@ -4,15 +4,15 @@ A Java Swing-based desktop application for designing and visualizing a campus Wi
 
 ## Features
 
-- 📍 Interactive campus map visualization
-- 🏢 Add and delete buildings
-- 🔗 Add, edit, and delete network connections
-- 🌳 Automatic Minimum Spanning Tree (MST) generation using Kruskal's Algorithm
-- 💰 Displays total MST cost
-- ⭐ Select and highlight a source building
-- 🖱️ Drag and reposition buildings
-- 💾 Save and load network data using text files
-- 🖼️ Custom background map and building icons
+-  Interactive campus map visualization
+-  Add and delete buildings
+-  Add, edit, and delete network connections
+-  Automatic Minimum Spanning Tree (MST) generation using Kruskal's Algorithm
+   Displays total MST cost
+-  Select and highlight a source building
+-  Drag and reposition buildings
+-  Save and load network data using text files
+-  Custom background map and building icons
 
 ## Technologies Used
 
@@ -56,6 +56,3 @@ The application uses **Kruskal's Algorithm** to compute the Minimum Spanning Tre
 **Moumeta Hena**  
 Department of Computer Science & Engineering  
 Bangladesh University of Professionals (BUP)
-
----
-⭐ If you like this project, consider giving it a star!
